@@ -1,4 +1,4 @@
-### Declaration instruction for the course:
+### Declaration instruction for the course
 
 *Hands‑on Data Analysis and Visualisation with Python*
 

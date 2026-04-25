@@ -1,4 +1,4 @@
-### Declaration instruction:
+### Declaration instruction
 
 The following declaration must be placed at the beginning of your solution notebook as a Markdown cell, and you should check all applicable boxes. 
 
