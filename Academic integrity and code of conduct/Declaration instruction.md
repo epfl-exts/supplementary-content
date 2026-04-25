@@ -6,7 +6,7 @@ By submitting this work, I declare that:
 
 - [ ] I affirm that all content in this notebook, including Python code, analysis, and written report sections, is my own original work, except where explicitly declared below.
   
-- I confirm the use of Artificial Intelligence (AI) tools for:
+I confirm the use of Artificial Intelligence (AI) tools for:
 
   - [ ] Conceptual aid: brainstorming, generating high-level ideas, or clarifying complex concepts.
 
